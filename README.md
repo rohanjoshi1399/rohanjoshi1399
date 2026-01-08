@@ -27,7 +27,7 @@ current_status = {
         "Distributed systems at scale", 
         "RAG and multi-agent architectures"
     ],
-    "currently_taking": "Algorithms, Distributed Systems",
+    "currently_taking": "Reinforcement Learning, Natural Language Processing",
 }
 
 open_to = "Summer 2026 internships in AI/ML/Software engineering"
