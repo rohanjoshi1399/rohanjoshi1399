@@ -10,7 +10,7 @@
 
 I'm a grad student at Northeastern University studying Computer Science (graduating May 2027), with 4+ years of hands-on experience building production AI systems. I've worked on everything from RAG frameworks to multi-agent architectures, and I genuinely enjoy solving hard technical problems.
 
-🎯 **Looking for AI/ML Software Engineering Internships for Summer 2026**
+🎯 **Looking for AI/ML Software Engineering Roles starting May 2027**
 
 Outside of code, I'm a wildlife photographer—won Young Photographer of the Year twice in international competitions back in high school. Still love getting out there with my camera when I can.
 
